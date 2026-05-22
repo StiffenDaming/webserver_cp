@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/timestamp_test.dir/src/main_timestamp.cpp.o CMakeFiles/timestamp_test.dir/src/TimeStamp.cpp.o -o timestamp_test 
